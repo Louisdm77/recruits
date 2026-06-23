@@ -79,7 +79,7 @@ export default function About() {
           >
             <span className="inline-flex items-center gap-2 text-[#5BA4F5] text-xs font-semibold tracking-[0.2em] uppercase mb-6">
               <span className="w-6 h-px bg-[#5BA4F5]" />
-              About Apex Recruiters
+              About Apex Career Partners
             </span>
 
             <h1 className="text-5xl lg:text-[3.75rem] font-bold text-white leading-[1.1] tracking-tight">
@@ -304,7 +304,7 @@ export default function About() {
 
             <div className="mt-8 space-y-5 text-gray-600 leading-relaxed">
               <p>
-                Haley founded Apex Recruiters with a mission to help professionals present their
+                Haley founded Apex Career Partners with a mission to help professionals present their
                 value with confidence. Having completed thousands of resumes for clients around
                 the world, she understands exactly what employers look for.
               </p>
@@ -344,7 +344,7 @@ export default function About() {
             <br />next step?
           </h2>
           <p className="text-blue-200 text-lg mt-6 max-w-xl mx-auto">
-            Let Apex Recruiters help you create a professional brand that gets noticed
+            Let Apex Career Partners help you create a professional brand that gets noticed
             by the right people.
           </p>
           <div className="flex flex-wrap justify-center gap-4 mt-10">

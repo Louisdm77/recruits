@@ -37,7 +37,7 @@ export default function FAQ() {
         "We offer Resume Only, Resume & Cover Letter, and All-Inclusive packages that include LinkedIn optimization. Additional services are available for returning clients.",
     },
     {
-      question: "How do I know I'm working with Apex Recruiters?",
+      question: "How do I know I'm working with Apex Career Partners?",
       answer:
         "All services are purchased directly through our website. Communication comes directly from our professional team throughout the project lifecycle.",
     },

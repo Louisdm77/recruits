@@ -19,7 +19,7 @@ export default function Navbar() {
             to="/"
             className="text-2xl font-extrabold bg-gradient-to-r from-blue-700 to-yellow-500 bg-clip-text text-transparent"
           >
-            Apex Careers
+            Apex Career Partners
           </Link>
 
           {/* DESKTOP NAV */}
@@ -112,7 +112,7 @@ export default function Navbar() {
             <div className="flex justify-between items-center p-6 border-b border-slate-700">
 
               <h2 className="font-bold text-xl text-yellow-400">
-                Apex Recruiters
+                Apex Career Partners
               </h2>
 
               <button

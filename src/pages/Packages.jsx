@@ -66,10 +66,10 @@ export default function Packages() {
   const levels = ["Student & Entry-Level", "Mid-Career & Management", "Director & Executive"];
 
   const testimonials = [
-    { name: "Brian H.", role: "Finance Associate", text: "Apex Recruiters transformed my resume and highlighted my strengths in a way I couldn't have done myself." },
+    { name: "Brian H.", role: "Finance Associate", text: "Apex Career Partners transformed my resume and highlighted my strengths in a way I couldn't have done myself." },
     { name: "Rico B.", role: "Technology Executive", text: "The guidance and support throughout the process were invaluable. Highly recommended." },
     { name: "Diana N.", role: "Senior HR Executive", text: "Professional, responsive, and incredibly skilled at identifying accomplishments and achievements." },
-    { name: "Shawn B.", role: "Marketing Director", text: "Working with Apex Recruiters felt like having a personal career strategist on my side." },
+    { name: "Shawn B.", role: "Marketing Director", text: "Working with Apex Career Partners felt like having a personal career strategist on my side." },
     { name: "Nathan N.", role: "CEO", text: "Excellent communication and an outstanding final product that exceeded expectations." },
     { name: "Betty G.", role: "Hospitality Leader", text: "The resume they created had real impact and helped me feel confident during my job search." },
   ];
@@ -342,7 +342,7 @@ export default function Packages() {
           </div>
           <div>
             <p className="text-gray-600 text-lg leading-relaxed">
-              Apex Recruiters partners with experienced career coaches and leadership advisors
+              Apex Career Partners partners with experienced career coaches and leadership advisors
               to provide support beyond resumes, cover letters, and LinkedIn profiles.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed mt-5">
@@ -404,7 +404,7 @@ export default function Packages() {
             <br />more interviews?
           </h2>
           <p className="text-blue-200 text-lg mt-6 max-w-xl mx-auto">
-            Let Apex Recruiters help you create career documents that stand out and open doors.
+            Let Apex Career Partners help you create career documents that stand out and open doors.
           </p>
           <div className="flex flex-wrap justify-center gap-4 mt-10">
             <a

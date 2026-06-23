@@ -6,7 +6,7 @@ export default function Testimonials() {
     {
       name: "Brian Henderson",
       role: "Finance Associate",
-      text: "Apex Recruiters completely transformed my resume and LinkedIn profile. Within three weeks I secured interviews with companies I had been targeting for months.",
+      text: "Apex Career Partners completely transformed my resume and LinkedIn profile. Within three weeks I secured interviews with companies I had been targeting for months.",
     },
     {
       name: "Rico Benson",
@@ -21,7 +21,7 @@ export default function Testimonials() {
     {
       name: "Shawn Brooks",
       role: "Marketing Director",
-      text: "Working with Apex Recruiters felt like having a personal career strategist. The process was smooth and the results exceeded expectations.",
+      text: "Working with Apex Career Partners felt like having a personal career strategist. The process was smooth and the results exceeded expectations.",
     },
     {
       name: "Nathan Newman",
@@ -65,7 +65,7 @@ export default function Testimonials() {
             What our clients say
           </h1>
           <p className="text-blue-100 text-lg mt-7 max-w-2xl mx-auto leading-relaxed">
-            Thousands of professionals have trusted Apex Recruiters to strengthen their
+            Thousands of professionals have trusted Apex Career Partners to strengthen their
             personal brand, secure interviews, and advance their careers.
           </p>
         </div>
@@ -173,7 +173,7 @@ export default function Testimonials() {
             <br />next success story?
           </h2>
           <p className="text-gray-400 text-lg mt-6 max-w-xl mx-auto">
-            Let Apex Recruiters help you build a professional brand that attracts
+            Let Apex Career Partners help you build a professional brand that attracts
             employers and opens the right doors.
           </p>
           <div className="flex flex-wrap justify-center gap-4 mt-10">

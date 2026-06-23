@@ -18,7 +18,7 @@ export default function Hero() {
             </h1>
 
             <p className="mt-6 text-lg text-gray-600">
-              Apex Recruiters connects professionals
+              Apex Career Partners connects professionals
               with world-class employers.
             </p>
 

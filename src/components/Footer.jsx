@@ -7,7 +7,7 @@ export default function Footer() {
 
           <div>
             <h3 className="text-xl font-bold">
-              Apex Recruiters
+              Apex Career Partners
             </h3>
 
             <p className="mt-4 text-gray-300">
@@ -41,7 +41,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-slate-700 mt-8 pt-6 text-center">
-          © 2026 Apex Recruiters
+          © 2026 Apex Career Partners
         </div>
 
       </div>

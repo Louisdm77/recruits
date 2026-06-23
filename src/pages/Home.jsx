@@ -176,7 +176,7 @@ export default function Home() {
                         </p>
                         <div className="mt-8 p-6 bg-[#EBF3FF] rounded-2xl border-l-4 border-[#1E6BD6]">
                             <p className="text-[#0B1F3A] font-medium leading-relaxed">
-                                "At Apex Careers, our mission is simple: equip job seekers with tools that get results."
+                                "At Apex Career Partners, our mission is simple: equip job seekers with tools that get results."
                             </p>
                         </div>
                     </div>
@@ -268,7 +268,7 @@ export default function Home() {
                             </h2>
 
                             <p className="text-gray-700 mt-8 leading-relaxed text-lg">
-                                At Apex Careers, we go beyond creating professional resumes.
+                                At Apex Career Partners, we go beyond creating professional resumes.
                                 Our mission is to help ambitious professionals position themselves
                                 for long-term success through strategic career branding and
                                 personalized guidance.
@@ -460,7 +460,7 @@ export default function Home() {
                         <div>
                             <h3 className="text-xl font-bold text-[#0B1F3A]">Secure Purchasing &amp; Communication</h3>
                             <p className="mt-3 text-gray-600 leading-relaxed">
-                                All Apex Recruiters services are offered directly through our website using secure
+                                All Apex Career Partners services are offered directly through our website using secure
                                 payment methods. After purchase, our support team will reach out to ensure a smooth,
                                 professional experience from start to finish.
                             </p>
