@@ -21,7 +21,7 @@ export default function Navbar() {
                     <Link to="/about">About</Link>
                     <Link to="/packages">Packages</Link>
                     <Link to="/testimonials">Testimonials</Link>
-                    <Link to="/blog">Our Blog</Link>
+                    {/* <Link to="/blog">Our Blog</Link> */}
                     <Link to="/faq">FAQ</Link>
                 </div>
 
@@ -37,9 +37,10 @@ export default function Navbar() {
                 <div className="md:hidden bg-white px-6 pb-6 flex flex-col gap-4">
                     <Link to="/">Home</Link>
                     <Link to="/about">About</Link>
-                    <Link to="/services">Services</Link>
-                    <Link to="/jobs">Jobs</Link>
-                    <Link to="/contact">Contact</Link>
+                    <Link to="/packages">Packages</Link>
+                    <Link to="/testimonials">Testimonials</Link>
+                    {/* <Link to="/blog">Our Blog</Link> */}
+                    <Link to="/faq">FAQ</Link>
                 </div>
             )}
         </nav>

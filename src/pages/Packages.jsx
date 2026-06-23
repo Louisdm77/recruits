@@ -208,11 +208,10 @@ export default function Packages() {
               <button
                 key={level}
                 onClick={() => setActiveLevel(level)}
-                className={`px-6 py-3 rounded-lg text-sm font-semibold transition-all duration-200 ${
-                  activeLevel === level
-                    ? "bg-[#0B1F3A] text-white shadow-md"
-                    : "bg-white text-gray-500 border border-gray-200 hover:border-[#1E6BD6] hover:text-[#1E6BD6]"
-                }`}
+                className={`px-6 py-3 rounded-lg text-sm font-semibold transition-all duration-200 ${activeLevel === level
+                  ? "bg-[#0B1F3A] text-white shadow-md"
+                  : "bg-white text-gray-500 border border-gray-200 hover:border-[#1E6BD6] hover:text-[#1E6BD6]"
+                  }`}
               >
                 {level}
               </button>
@@ -225,11 +224,10 @@ export default function Packages() {
               <motion.div
                 whileHover={{ y: -6 }}
                 key={pkg.title}
-                className={`relative rounded-2xl overflow-hidden border transition-all duration-300 ${
-                  pkg.popular
-                    ? "bg-[#0B1F3A] border-[#1E6BD6] shadow-2xl shadow-blue-900/20"
-                    : "bg-white border-gray-200 shadow-sm hover:shadow-md"
-                }`}
+                className={`relative rounded-2xl overflow-hidden border transition-all duration-300 ${pkg.popular
+                  ? "bg-[#0B1F3A] border-[#1E6BD6] shadow-2xl shadow-blue-900/20"
+                  : "bg-white border-gray-200 shadow-sm hover:shadow-md"
+                  }`}
               >
                 {pkg.popular && (
                   <div className="bg-[#1E6BD6] text-white text-center py-2.5 text-xs font-bold tracking-widest uppercase">
@@ -261,15 +259,19 @@ export default function Packages() {
                     ))}
                   </ul>
 
-                  <button
-                    className={`w-full mt-10 py-4 rounded-xl font-semibold text-sm transition-all duration-200 ${
-                      pkg.popular
-                        ? "bg-[#1E6BD6] hover:bg-[#1859b8] text-white"
-                        : "bg-[#0B1F3A] hover:bg-[#1E6BD6] text-white"
-                    }`}
+                  <Link
+                    to="/payment"
+                    state={{
+                      packageName: pkg.title,
+                      packagePrice: `${pkg.price}.99`,
+                    }}
+                    className={`block text-center w-full mt-10 py-4 rounded-xl font-semibold ${pkg.popular
+                        ? "bg-yellow-400 text-slate-900"
+                        : "bg-[#0F172A] text-white"
+                      }`}
                   >
-                    Select Package →
-                  </button>
+                    Select Package
+                  </Link>
                 </div>
               </motion.div>
             ))}
