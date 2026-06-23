@@ -171,12 +171,12 @@ export default function Home() {
                     <div>
                         <p className="text-gray-600 text-lg leading-relaxed">
                             We help professionals tell their stories in ways that make hiring managers take notice.
-                            This isn't one-size-fits-all — it's strategy-driven support that meets you where
+                            This isn't one-size-fits-all, it's strategy-driven support that meets you where
                             you are and takes you where you want to go.
                         </p>
                         <div className="mt-8 p-6 bg-[#EBF3FF] rounded-2xl border-l-4 border-[#1E6BD6]">
                             <p className="text-[#0B1F3A] font-medium leading-relaxed">
-                                "At Apex Recruiters, our mission is simple: equip job seekers with tools that get results."
+                                "At Apex Careers, our mission is simple: equip job seekers with tools that get results."
                             </p>
                         </div>
                     </div>
@@ -250,7 +250,6 @@ export default function Home() {
                 </div>
             </section>
 
-            ```jsx
             {/* CAREER ADVANCEMENT SUPPORT */}
 
             <section className="py-24 bg-slate-50">
@@ -269,7 +268,7 @@ export default function Home() {
                             </h2>
 
                             <p className="text-gray-700 mt-8 leading-relaxed text-lg">
-                                At Apex Recruiters, we go beyond creating professional resumes.
+                                At Apex Careers, we go beyond creating professional resumes.
                                 Our mission is to help ambitious professionals position themselves
                                 for long-term success through strategic career branding and
                                 personalized guidance.
@@ -487,7 +486,7 @@ export default function Home() {
                     </h2>
                     <p className="text-blue-200 text-lg mt-6 max-w-xl mx-auto">
                         Let's fix that. We create resumes that get noticed and help professionals secure
-                        more interviews — faster.
+                        more interviews faster.
                     </p>
                     <div className="flex flex-wrap justify-center gap-4 mt-10">
                         <Link

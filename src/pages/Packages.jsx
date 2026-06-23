@@ -347,7 +347,7 @@ export default function Packages() {
             </p>
             <p className="text-gray-600 text-lg leading-relaxed mt-5">
               Whether you're a recent graduate, changing industries, or pursuing executive
-              positions — our partners help you gain clarity, confidence, and direction.
+              positions, our partners help you gain clarity, confidence, and direction.
             </p>
             <div className="mt-10 inline-flex items-center gap-3 bg-[#EBF3FF] border border-[#1E6BD6]/20 px-8 py-5 rounded-2xl">
               <div className="w-2 h-2 rounded-full bg-[#1E6BD6]" />

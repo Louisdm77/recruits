@@ -19,7 +19,7 @@ export default function Navbar() {
             to="/"
             className="text-2xl font-extrabold bg-gradient-to-r from-blue-700 to-yellow-500 bg-clip-text text-transparent"
           >
-            Apex Recruiters
+            Apex Careers
           </Link>
 
           {/* DESKTOP NAV */}

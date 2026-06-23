@@ -90,7 +90,7 @@ export default function About() {
 
             <p className="text-gray-400 text-lg mt-7 leading-relaxed max-w-lg">
               We help professionals tell their stories in ways that make hiring managers
-              take notice — strategic, personalized, and designed to get you results.
+              take notice, strategic, personalized, and designed to get you results.
             </p>
 
             <div className="flex flex-wrap gap-4 mt-10">
@@ -143,7 +143,7 @@ export default function About() {
             </p>
             <p>
               Whether you're entering the workforce, changing industries, pursuing leadership
-              opportunities, or targeting executive positions — we provide career support
+              opportunities, or targeting executive positions, we provide career support
               tailored to your journey.
             </p>
             <div className="mt-8 p-6 bg-[#EBF3FF] rounded-2xl border-l-4 border-[#1E6BD6]">
@@ -310,7 +310,7 @@ export default function About() {
               </p>
               <p>
                 Her work has helped professionals secure opportunities with leading organizations
-                across multiple industries — from entry-level candidates to C-suite executives.
+                across multiple industries, from entry-level candidates to C-suite executives.
               </p>
             </div>
 
