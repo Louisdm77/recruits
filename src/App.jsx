@@ -10,10 +10,14 @@ import Testimonials from "./pages/Testimonials";
 // import Blog from "./pages/Blog";
 import FAQ from "./pages/FAQ"
 import Payment from "./pages/payment";
+import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
   return (
     <>
+
+      <ScrollToTop />
+
       <Navbar />
 
       <Routes>
